@@ -6,6 +6,6 @@ const JobsPage = () => {
       <JobListings />
     </section>
   )
-  }
+}
   
-  export default JobsPage;
+export default JobsPage;
