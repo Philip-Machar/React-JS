@@ -83,19 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "2590",
-      "title": "Test Job",
-      "type": "Full-Time",
-      "description": "Testing this job to see if it works",
-      "salary": "Under $50K",
-      "company": {
-        "name": "Skyrim",
-        "description": "First African space company",
-        "contactEmail": "skyrim@skyrim.com",
-        "contactPhone": "4565-6544-6456"
-      }
     }
   ]
 }
