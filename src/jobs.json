@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "3711",
-      "title": "Test React Job",
-      "type": "Full-Time",
-      "location": "dsfdf",
-      "description": "dsfdfsf",
-      "salary": "Under $50K",
-      "company": {
-        "name": "dsfdsf",
-        "description": "dsfdsf",
-        "contactEmail": "zcxczxzc@gmail.com",
-        "contactPhone": "4565-6544-6456"
-      }
     }
   ]
 }
